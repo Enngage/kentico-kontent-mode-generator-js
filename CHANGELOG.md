@@ -2,6 +2,58 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.0-18](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-17...v8.0.0-18) (2025-02-19)
+
+## [8.0.0-17](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-16...v8.0.0-17) (2025-02-17)
+
+## [8.0.0-16](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-15...v8.0.0-16) (2025-02-14)
+
+## [8.0.0-15](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-14...v8.0.0-15) (2025-02-13)
+
+## [8.0.0-14](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-13...v8.0.0-14) (2025-02-03)
+
+## [8.0.0-13](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-12...v8.0.0-13) (2025-01-23)
+
+## [8.0.0-12](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-11...v8.0.0-12) (2025-01-23)
+
+## [8.0.0-11](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-10...v8.0.0-11) (2024-11-11)
+
+## [8.0.0-10](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-9...v8.0.0-10) (2024-11-11)
+
+## [8.0.0-9](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-8...v8.0.0-9) (2024-11-11)
+
+## [8.0.0-8](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-7...v8.0.0-8) (2024-10-30)
+
+## [8.0.0-7](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-6...v8.0.0-7) (2024-10-29)
+
+## [8.0.0-6](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-5...v8.0.0-6) (2024-10-08)
+
+## [8.0.0-5](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-4...v8.0.0-5) (2024-10-04)
+
+## [8.0.0-4](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-3...v8.0.0-4) (2024-10-02)
+
+## [8.0.0-3](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-2...v8.0.0-3) (2024-10-01)
+
+## [8.0.0-2](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-1...v8.0.0-2) (2024-09-16)
+
+## [8.0.0-1](https://github.com/kontent-ai/model-generator-js/compare/v8.0.0-0...v8.0.0-1) (2024-09-16)
+
+
+### Bug Fixes
+
+* Adds missing references for RichTextElement ([3b92689](https://github.com/kontent-ai/model-generator-js/commit/3b9268918de67a99bbc0831adf7fc17d76917723))
+
+## [8.0.0-0](https://github.com/kontent-ai/model-generator-js/compare/v7.4.0...v8.0.0-0) (2024-09-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Separates Delivery & Project models
+
+### Features
+
+* Separates Delivery & Project models ([a28ec19](https://github.com/kontent-ai/model-generator-js/commit/a28ec195fe0c361a2e75316fd2ea732d1aea1c05))
+
 ## [7.4.0](https://github.com/kontent-ai/model-generator-js/compare/v7.3.0...v7.4.0) (2024-08-15)
 
 
